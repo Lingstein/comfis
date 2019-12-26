@@ -1,2 +1,2 @@
 # comfis
-regiter for physics course
+regitry for physics course
